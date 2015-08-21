@@ -15,6 +15,8 @@ django-email-confirm-la
 
 Django email confirmation for any Model and any Field.
 
+Created to test Django 1.8.2
+
 Requirements
 ============
 
